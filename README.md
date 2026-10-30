@@ -2,7 +2,7 @@
 
 **Data Analyst | BI & Analytics**
 
-Sou Analista de Dados com experiência em Business Intelligence, Web Analytics e Engenharia de Dados. Trabalho na transformação de dados em inteligência de negócio, desde a extração e modelagem até a análise e visualização, desenvolvendo soluções que apoiam decisões estratégicas e otimizam processos.
+Transformo dados em insights que apoiam decisões estratégicas. Atuo em todo o ciclo analítico: extração, tratamento, modelagem, análise e visualização, com foco em qualidade dos dados, automação de processos e insights acionáveis para stakeholders.
 
 ## 🔎 O que eu faço
 
