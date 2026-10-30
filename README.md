@@ -37,11 +37,6 @@ Transformo dados em insights que apoiam decisões estratégicas. Atuo em todo o 
 - Google Cloud: Skill Badge em Load Balancing no Compute Engine e Cloud Computing Foundations
 - Big Data Fundamentos 3.0
 
-## 📂 Projetos em destaque
-
-- [Nome do projeto 1](link): descrição curta
-- [Nome do projeto 2](link): descrição curta
-- [Nome do projeto 3](link): descrição curta
 
 ## 📫 Contato
 
